@@ -1,6 +1,6 @@
 
 
-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m @Fengrui-Liu
+- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> Hi, I’m @Fengrui-Liu
 - 👀 I’m interested in anomaly detection for AIOps, fault detection for microservices
 - 🌱 I’m currently learning AI and cloud native technology, and I'm working toward my Ph.D
 - 💞️ I’m looking to collaborate on link-minded friends
