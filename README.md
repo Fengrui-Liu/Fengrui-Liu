@@ -16,3 +16,4 @@
 5. 🗣 Commented on [#18898](https://github.com/conda-forge/staged-recipes/issues/18898) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
 <!--END_SECTION:activity-->
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fengrui-Liu&show_icons=true"  />
