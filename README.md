@@ -11,9 +11,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#936](https://github.com/online-ml/river/issues/936) in [online-ml/river](https://github.com/online-ml/river)
 2. 🗣 Commented on [#936](https://github.com/online-ml/river/issues/936) in [online-ml/river](https://github.com/online-ml/river)
-3. 🗣 Commented on [#18898](https://github.com/conda-forge/staged-recipes/issues/18898) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
+3. 🗣 Commented on [#936](https://github.com/online-ml/river/issues/936) in [online-ml/river](https://github.com/online-ml/river)
 4. 🗣 Commented on [#18898](https://github.com/conda-forge/staged-recipes/issues/18898) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
-5. 🎉 Merged PR [#4](https://github.com/Fengrui-Liu/StreamAD/pull/4) in [Fengrui-Liu/StreamAD](https://github.com/Fengrui-Liu/StreamAD)
+5. 🗣 Commented on [#18898](https://github.com/conda-forge/staged-recipes/issues/18898) in [conda-forge/staged-recipes](https://github.com/conda-forge/staged-recipes)
 <!--END_SECTION:activity-->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Fengrui-Liu&show_icons=true"  />
